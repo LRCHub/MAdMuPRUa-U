@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "死にゆく季節でぼくは",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-01-12T10:50:32.450679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死にゆく季節でぼくは",
+      "artist": "She is Legend",
+      "has_synced": true,
+      "path": "select/01_死にゆく季節でぼくは_She_is_Legend.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死にゆく季節でぼくは",
+      "artist": "She is Legend、麻枝准",
+      "has_synced": true,
+      "path": "select/02_死にゆく季節でぼくは_She_is_Legend、麻枝准.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死にゆく季節でぼくは",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_死にゆく季節でぼくは_She_is_Legend.txt"
+    }
+  ]
+}
